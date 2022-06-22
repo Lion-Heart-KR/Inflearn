@@ -15,28 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Lecture1_Integer.cpp">
+    <ClCompile Include="CPP_Lecture1_Branch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture2_BooleanAndfloat.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture3_Characters.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture4_ArithmeticCalculate.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture5_BranchAndLogical.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture6_bitHandling.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture7_constAndMemoryArchitecture.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture8_note.cpp">
+    <ClCompile Include="CPP_Lecture2_Loop.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

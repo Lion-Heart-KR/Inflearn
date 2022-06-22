@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{433f29e6-cf38-4e1f-97db-81f4556f0f09}</ProjectGuid>
-    <RootNamespace>CPPLecture1</RootNamespace>
+    <ProjectGuid>{7a5b242f-e1df-46a2-a692-94736fd1c100}</ProjectGuid>
+    <RootNamespace>CPPLectureSection3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>CPP_Lectures</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,14 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Lecture1_Integer.cpp" />
-    <ClCompile Include="CPP_Lecture2_BooleanAndfloat.cpp" />
-    <ClCompile Include="CPP_Lecture3_Characters.cpp" />
-    <ClCompile Include="CPP_Lecture4_ArithmeticCalculate.cpp" />
-    <ClCompile Include="CPP_Lecture5_BranchAndLogical.cpp" />
-    <ClCompile Include="CPP_Lecture6_bitHandling.cpp" />
-    <ClCompile Include="CPP_Lecture7_constAndMemoryArchitecture.cpp" />
-    <ClCompile Include="CPP_Lecture8_note.cpp" />
+    <ClCompile Include="CPP_Lecture2_Loop.cpp" />
+    <ClCompile Include="CPP_Lecture1_Branch.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

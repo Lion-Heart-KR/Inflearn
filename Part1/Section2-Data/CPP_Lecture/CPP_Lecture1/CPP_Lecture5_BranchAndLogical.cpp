@@ -1,4 +1,6 @@
 #include <iostream>
+
+#ifdef WORK
 using namespace std;
 
 bool isSame;
@@ -56,3 +58,4 @@ int main()
 
 #pragma endregion
 }
+#endif
