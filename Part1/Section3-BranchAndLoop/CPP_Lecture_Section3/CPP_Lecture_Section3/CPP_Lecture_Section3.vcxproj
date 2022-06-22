@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="CPP_Lecture2_Loop.cpp" />
     <ClCompile Include="CPP_Lecture1_Branch.cpp" />
+    <ClCompile Include="CPP_Lecture3_구구단.cpp" />
+    <ClCompile Include="CPP_Lecture4_가위바위보.cpp" />
+    <ClCompile Include="CPP_Lecture5_enumerate.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

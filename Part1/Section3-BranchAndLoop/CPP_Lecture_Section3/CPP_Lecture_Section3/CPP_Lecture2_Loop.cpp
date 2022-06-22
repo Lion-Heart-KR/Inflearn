@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+#ifdef WORK
 
 //오늘의 주제 : 반복문
 
@@ -71,3 +72,5 @@ int main()
 		cout << i << endl;
 	}
 }
+
+#endif
