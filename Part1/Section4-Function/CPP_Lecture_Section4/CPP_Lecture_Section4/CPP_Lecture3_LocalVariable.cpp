@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#define WORK
+
 #ifdef WORK
 
 int globalValue = 321;

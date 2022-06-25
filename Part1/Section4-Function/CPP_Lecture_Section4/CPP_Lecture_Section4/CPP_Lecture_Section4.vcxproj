@@ -130,6 +130,8 @@
     <ClCompile Include="CPP_Lecture2_StackFrame.cpp" />
     <ClCompile Include="CPP_Lecture1_FunctionBasic.cpp" />
     <ClCompile Include="CPP_Lecture3_LocalVariable.cpp" />
+    <ClCompile Include="CPP_Lecture4_Stack.cpp" />
+    <ClCompile Include="CPP_Lecture5_Function.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
