@@ -131,6 +131,9 @@
     <ClCompile Include="CPP_Lecture2_PointerBasic2.cpp" />
     <ClCompile Include="CPP_Lecture3_PointerCalculation.cpp" />
     <ClCompile Include="CPP_Lecture4_PointerExample.cpp" />
+    <ClCompile Include="CPP_Lecture5_Reference.cpp" />
+    <ClCompile Include="CPP_Lecture6_PointerVSReference.cpp" />
+    <ClCompile Include="CPP_Lecture7_Array.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
