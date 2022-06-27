@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="TextRPG_1_답안.cpp" />
     <ClCompile Include="TextRPG_1.cpp" />
+    <ClCompile Include="TextRPG_2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

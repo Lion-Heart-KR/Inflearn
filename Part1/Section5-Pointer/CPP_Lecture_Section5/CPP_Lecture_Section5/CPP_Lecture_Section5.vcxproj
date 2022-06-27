@@ -127,6 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CPP_Lecture10_multiPointer.cpp" />
+    <ClCompile Include="CPP_Lecture11_multipleArray.cpp" />
+    <ClCompile Include="CPP_Lecture12_Pointer.cpp" />
+    <ClCompile Include="CPP_Lecture13_Example.cpp" />
     <ClCompile Include="CPP_Lecture1_PointerBasic1.cpp" />
     <ClCompile Include="CPP_Lecture2_PointerBasic2.cpp" />
     <ClCompile Include="CPP_Lecture3_PointerCalculation.cpp" />
@@ -134,6 +138,8 @@
     <ClCompile Include="CPP_Lecture5_Reference.cpp" />
     <ClCompile Include="CPP_Lecture6_PointerVSReference.cpp" />
     <ClCompile Include="CPP_Lecture7_Array.cpp" />
+    <ClCompile Include="CPP_Lecture8_PointerVSArray.cpp" />
+    <ClCompile Include="CPP_Lecture9_LottoGenerator.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
