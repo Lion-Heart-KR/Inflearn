@@ -131,6 +131,8 @@
     <ClCompile Include="CPP_Lecture11_multipleArray.cpp" />
     <ClCompile Include="CPP_Lecture12_Pointer.cpp" />
     <ClCompile Include="CPP_Lecture13_Example.cpp" />
+    <ClCompile Include="CPP_Lecture14_달팽이문제.cpp" />
+    <ClCompile Include="CPP_Lecture14_달팽이문제_답안.cpp" />
     <ClCompile Include="CPP_Lecture1_PointerBasic1.cpp" />
     <ClCompile Include="CPP_Lecture2_PointerBasic2.cpp" />
     <ClCompile Include="CPP_Lecture3_PointerCalculation.cpp" />
