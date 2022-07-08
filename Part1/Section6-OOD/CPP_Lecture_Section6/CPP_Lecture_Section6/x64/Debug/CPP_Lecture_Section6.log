@@ -1,2 +1,6 @@
-﻿  CPP_Lecture3_상속.cpp
-  CPP_Lecture_Section6.vcxproj -> C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\x64\Debug\CPP_Lecture_Section6.exe
+﻿  CPP_Lecture5_다형성.cpp
+C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture5_다형성.cpp(158,8): error C2259: 'Child': 추상 클래스를 인스턴스화할 수 없습니다.
+C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture5_다형성.cpp(108): message : 'Child' 선언을 참조하십시오.
+C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture5_다형성.cpp(158,8): message : 다음 멤버가 원인입니다.
+C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture5_다형성.cpp(158,8): message : 'void Parent::NotVirtualTest(void)': abstract입니다.
+C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture5_다형성.cpp(105): message : 'Parent::NotVirtualTest' 선언을 참조하십시오.
