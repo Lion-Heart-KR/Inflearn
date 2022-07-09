@@ -30,5 +30,14 @@
     <ClCompile Include="CPP_Lecture5_다형성.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CPP_Lecture6_초기화리스트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture7_연산자 오버로딩.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture8_객체지향 마무리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
