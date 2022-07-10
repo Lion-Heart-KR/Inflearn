@@ -127,7 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Lecture1_Dynamic Allocation.cpp" />
+    <ClCompile Include="CPP_Lecture2_Dynamic Allocation.cpp" />
+    <ClCompile Include="CPP_Lecture3_타입변환.cpp" />
+    <ClCompile Include="CPP_Lecture1_Dynamic Allocation2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

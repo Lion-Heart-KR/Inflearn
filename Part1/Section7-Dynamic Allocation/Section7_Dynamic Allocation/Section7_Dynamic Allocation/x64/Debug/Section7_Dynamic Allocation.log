@@ -1,2 +1,5 @@
-﻿  CPP_Lecture1_Dynamic Allocation.cpp
-  Section7_Dynamic Allocation.vcxproj -> C:\Users\sungw\inflearn\Part1\Section7-Dynamic Allocation\Section7_Dynamic Allocation\x64\Debug\Section7_Dynamic Allocation.exe
+﻿  CPP_Lecture3_타입변환.cpp
+C:\Users\sungw\inflearn\Inflearn\Part1\Section7-Dynamic Allocation\Section7_Dynamic Allocation\Section7_Dynamic Allocation\CPP_Lecture3_타입변환.cpp(55,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\Section7-Dynamic Allocation\Section7_Dynamic Allocation\Section7_Dynamic Allocation\CPP_Lecture3_타입변환.cpp(66,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\Section7-Dynamic Allocation\Section7_Dynamic Allocation\Section7_Dynamic Allocation\CPP_Lecture3_타입변환.cpp(73,19): warning C4312: '형식 캐스트': 'int'에서 더 큰 'int *'(으)로의 변환입니다.
+  Section7_Dynamic Allocation.vcxproj -> C:\Users\sungw\inflearn\Inflearn\Part1\Section7-Dynamic Allocation\Section7_Dynamic Allocation\x64\Debug\Section7_Dynamic Allocation.exe
