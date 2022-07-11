@@ -15,13 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CPP_Lecture1_Dynamic Allocation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="CPP_Lecture2_Dynamic Allocation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture1_Dynamic Allocation2.cpp">
+    <ClCompile Include="CPP_Lecture3_타입변환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture3_타입변환.cpp">
+    <ClCompile Include="CPP_Lecture4_타입변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture5_얕은복사와 깊은복사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture6_얕은복사와 깊은복사 실험.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
