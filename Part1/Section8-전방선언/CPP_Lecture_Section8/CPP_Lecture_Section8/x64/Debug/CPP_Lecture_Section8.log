@@ -1,0 +1,7 @@
+﻿  CPP_Lecture1_전방선언.cpp
+C:\Users\sungw\inflearn\Inflearn\Part1\Section8-전방선언\CPP_Lecture_Section8\CPP_Lecture_Section8\Player.h(22,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\Section8-전방선언\CPP_Lecture_Section8\CPP_Lecture_Section8\Player.h(11): message : 'Monster' 선언을 참조하십시오.
+  Player.cpp
+C:\Users\sungw\inflearn\Inflearn\Part1\Section8-전방선언\CPP_Lecture_Section8\CPP_Lecture_Section8\Player.h(22,1): error C2027: 정의되지 않은 형식 'Monster'을(를) 사용했습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\Section8-전방선언\CPP_Lecture_Section8\CPP_Lecture_Section8\Player.h(11): message : 'Monster' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...

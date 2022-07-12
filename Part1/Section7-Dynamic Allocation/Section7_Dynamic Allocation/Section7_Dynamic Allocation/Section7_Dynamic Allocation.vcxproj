@@ -133,6 +133,7 @@
     <ClCompile Include="CPP_Lecture4_타입변환.cpp" />
     <ClCompile Include="CPP_Lecture5_얕은복사와 깊은복사.cpp" />
     <ClCompile Include="CPP_Lecture6_얕은복사와 깊은복사 실험.cpp" />
+    <ClCompile Include="CPP_Lecture7_Casting.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
