@@ -1,0 +1,7 @@
+﻿  CPP_Lecture6_CallbackFunction.cpp
+C:\Users\sungw\inflearn\Inflearn\Part1\SectionA-CallBackFunction\Section10-CallBackFunction\Section10-CallBackFunction\CPP_Lecture6_CallbackFunction.cpp(60,13): error C2064: 항은 1개의 인수를 받아들이는 함수로 계산되지 않습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\SectionA-CallBackFunction\Section10-CallBackFunction\Section10-CallBackFunction\CPP_Lecture6_CallbackFunction.cpp(77): message : 컴파일되는 함수 템플릿 인스턴스화 'Item *FindItem<FindByItemId>(Item [],int,T)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=FindByItemId
+          ]
