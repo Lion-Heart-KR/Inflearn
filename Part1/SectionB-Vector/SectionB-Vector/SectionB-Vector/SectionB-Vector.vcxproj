@@ -129,6 +129,8 @@
   <ItemGroup>
     <ClCompile Include="CPP_Lecture2_Vector2.cpp" />
     <ClCompile Include="CPP_Lecture1_Vector1.cpp" />
+    <ClCompile Include="CPP_Lecture3_Vector3.cpp" />
+    <ClCompile Include="CPP_Lecture4_Vector4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
