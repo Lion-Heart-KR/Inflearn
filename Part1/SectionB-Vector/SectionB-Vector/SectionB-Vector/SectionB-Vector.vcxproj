@@ -24,6 +24,7 @@
     <ProjectGuid>{048df171-c037-45bf-a191-25d3d531d8eb}</ProjectGuid>
     <RootNamespace>SectionBVector</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SectionB-STL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,10 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CPP_Lecture1_List1.cpp" />
+    <ClCompile Include="CPP_Lecture1_List2.cpp" />
     <ClCompile Include="CPP_Lecture2_Vector2.cpp" />
     <ClCompile Include="CPP_Lecture1_Vector1.cpp" />
     <ClCompile Include="CPP_Lecture3_Vector3.cpp" />
     <ClCompile Include="CPP_Lecture4_Vector4.cpp" />
+    <ClCompile Include="CPP_Lecture_Vector5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

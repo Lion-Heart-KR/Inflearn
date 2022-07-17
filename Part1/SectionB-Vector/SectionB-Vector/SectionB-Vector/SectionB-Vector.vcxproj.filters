@@ -13,19 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Vector">
+      <UniqueIdentifier>{231057bc-b712-42b2-87a1-e5ff19df88f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\List">
+      <UniqueIdentifier>{e8e5010b-35c5-4387-bf25-599ff85f63fc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CPP_Lecture4_Vector4.cpp">
+      <Filter>소스 파일\Vector</Filter>
+    </ClCompile>
     <ClCompile Include="CPP_Lecture1_Vector1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Vector</Filter>
     </ClCompile>
     <ClCompile Include="CPP_Lecture2_Vector2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="CPP_Lecture4_Vector4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Vector</Filter>
     </ClCompile>
     <ClCompile Include="CPP_Lecture3_Vector3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture1_List1.cpp">
+      <Filter>소스 파일\List</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture_Vector5.cpp">
+      <Filter>소스 파일\Vector</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture1_List2.cpp">
+      <Filter>소스 파일\List</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
