@@ -128,13 +128,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CPP_Lecture1_List1.cpp" />
-    <ClCompile Include="CPP_Lecture1_List2.cpp" />
+    <ClCompile Include="CPP_Lecture6_List1.cpp" />
+    <ClCompile Include="CPP_Lecture7_List2.cpp" />
     <ClCompile Include="CPP_Lecture2_Vector2.cpp" />
     <ClCompile Include="CPP_Lecture1_Vector1.cpp" />
     <ClCompile Include="CPP_Lecture3_Vector3.cpp" />
     <ClCompile Include="CPP_Lecture4_Vector4.cpp" />
-    <ClCompile Include="CPP_Lecture_Vector5.cpp" />
+    <ClCompile Include="CPP_Lecture5_Vector5.cpp" />
+    <ClCompile Include="CPP_Lecture9_Map1.cpp" />
+    <ClCompile Include="CPP_Lecture8_Deque.cpp" />
+    <ClCompile Include="CPP_LectureA_set, multimap, multiset.cpp" />
+    <ClCompile Include="연습문제.cpp" />
+    <ClCompile Include="연습문제_ByAlgorithm.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

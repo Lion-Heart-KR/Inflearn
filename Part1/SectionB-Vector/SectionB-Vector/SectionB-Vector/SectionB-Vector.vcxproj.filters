@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\List">
       <UniqueIdentifier>{e8e5010b-35c5-4387-bf25-599ff85f63fc}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Deque">
+      <UniqueIdentifier>{192ff21c-8653-443d-85e7-5a708e7fac74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Map">
+      <UniqueIdentifier>{cca9e558-236f-4755-b1d1-bb8e0838019c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CPP_Lecture4_Vector4.cpp">
@@ -33,14 +39,29 @@
     <ClCompile Include="CPP_Lecture3_Vector3.cpp">
       <Filter>소스 파일\Vector</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture1_List1.cpp">
+    <ClCompile Include="CPP_Lecture6_List1.cpp">
       <Filter>소스 파일\List</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture_Vector5.cpp">
+    <ClCompile Include="CPP_Lecture7_List2.cpp">
+      <Filter>소스 파일\List</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture5_Vector5.cpp">
       <Filter>소스 파일\Vector</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture1_List2.cpp">
-      <Filter>소스 파일\List</Filter>
+    <ClCompile Include="CPP_Lecture8_Deque.cpp">
+      <Filter>소스 파일\Deque</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_Lecture9_Map1.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_LectureA_set, multimap, multiset.cpp">
+      <Filter>소스 파일\Map</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연습문제_ByAlgorithm.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
