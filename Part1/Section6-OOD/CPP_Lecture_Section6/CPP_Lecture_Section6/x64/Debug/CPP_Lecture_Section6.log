@@ -1,2 +1,3 @@
-﻿  CPP_Lecture8_객체지향 마무리.cpp
-  CPP_Lecture_Section6.vcxproj -> C:\Users\sungw\inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\x64\Debug\CPP_Lecture_Section6.exe
+﻿  CPP_Lecture7-2_연산자 오버로딩 캐스팅.cpp
+C:\Users\sungw\inflearn\Inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture7-2_연산자 오버로딩 캐스팅.cpp(41,1): error C2440: 'return': 'int'에서 'std::pair<int,int>'(으)로 변환할 수 없습니다.
+C:\Users\sungw\inflearn\Inflearn\Part1\Section6-OOD\CPP_Lecture_Section6\CPP_Lecture_Section6\CPP_Lecture7-2_연산자 오버로딩 캐스팅.cpp(41,1): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.

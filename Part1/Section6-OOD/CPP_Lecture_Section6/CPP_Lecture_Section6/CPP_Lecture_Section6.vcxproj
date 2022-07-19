@@ -135,6 +135,7 @@
     <ClCompile Include="CPP_Lecture6_초기화리스트.cpp" />
     <ClCompile Include="CPP_Lecture7_연산자 오버로딩.cpp" />
     <ClCompile Include="CPP_Lecture8_객체지향 마무리.cpp" />
+    <ClCompile Include="CPP_Lecture7-2_연산자 오버로딩 캐스팅.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

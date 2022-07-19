@@ -39,5 +39,8 @@
     <ClCompile Include="CPP_Lecture8_객체지향 마무리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="CPP_Lecture7-2_연산자 오버로딩 캐스팅.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
