@@ -51,7 +51,7 @@
 //	}
 //
 //private:
-//	void operator&() const { } //주소값 &을 막는다.
+//	void operator&() const { } //주소값 &을 막는다. &nullptr이 불가능해진다.
 //	//void operator&() const = delete; //주소값 &을 막는다.
 //
 //} _Nullptr;

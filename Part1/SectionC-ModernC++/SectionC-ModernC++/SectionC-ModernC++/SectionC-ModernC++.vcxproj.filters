@@ -33,13 +33,22 @@
     <ClCompile Include="CPP_Lecture6_delete.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture_override, final.cpp">
+    <ClCompile Include="CPP_Lecture7_override, final.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture7_rvalue reference.cpp">
+    <ClCompile Include="CPP_Lecture8_rvalue reference.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CPP_Lecture8_forwarding reference.cpp">
+    <ClCompile Include="CPP_Lecture9_forwarding reference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_LectureA_lambda.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CPP_LectureB_smart pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="temp.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

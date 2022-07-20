@@ -60,7 +60,7 @@
 //	double value = PT_Knight;
 //
 //	//enum class는 변환이 안 된다.
-//	double value2 = ObjectType::Player;
+//	//double value2 = ObjectType::Player;
 //
 //	//명시적 형변환은 가능하다.
 //	double value2 = static_cast<double>(ObjectType::Player);
@@ -78,13 +78,15 @@
 //	//ObjectType2::Monster를 int와 비교할 수 없다.
 //	//비교시켜주기 위해서는 casting이 필요하다.
 //	if (choice == static_cast<int>(ObjectType2::Monster))
-//	{1
+//	{
 //
 //	}
 //
 //	unsigned int bitFlag;
-//	bitFlag == (1 << PT_Knight); //이건 됨
-//	bitFlag == (1 << ObjectType::Player); //이게 안됨. 캐스팅 해줘야함.
+//	bitFlag = (1 << PT_Knight); //이건 됨
+//	//bitFlag == (1 << ObjectType::Player); //이게 안됨. 캐스팅 해줘야함
+//
+//
 //
 //	return 0;
 //}

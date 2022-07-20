@@ -49,6 +49,8 @@
 //	const int cst = a;
 //
 //	auto test3 = ref; //참조타입이 아니라 그냥 정수형이 된다.
+//	test3 = 33;
+//
 //	auto test4 = cst; //const type이 아니라 그냥 정수형이 된다.
 //
 //	vector<int> v;
@@ -58,13 +60,13 @@
 //
 //	for (auto i = 0; i < v.size(); i++)
 //	{
-//		//이건 안됨
+//		//이건 안됨. 그니까.. 원본을 변경할 수 없다는 말임.
 //		auto item2 = v[i];
 //
 //		//이러면 됨
 //		auto& item = v[i];
 //
-//		item = 100;
+//		item2 = 100;
 //	}
 //
 //	// ??? : 이제 기존의 타입은 잊어버리고 auto만 사용할래요 ㅎㅎ
@@ -74,8 +76,8 @@
 //	
 //	//auto가 나은 경우1
 //	map<int, int> m;
-//	pair<map<int, int>::iterator, bool> ok = m.insert(make_pair(1, 100)); //이런건 auto가 낫다.
-//	auto ok = m.insert(make_pair(1, 100));
+//	pair<map<int, int>::iterator, bool> ok1 = m.insert(make_pair(1, 100)); //이런건 auto가 낫다.
+//	auto ok2 = m.insert(make_pair(1, 100));
 //
 //	//auto가 나은 경우2
 //	for (map<int, int>::iterator it = m.begin(); it != m.end(); ++it);

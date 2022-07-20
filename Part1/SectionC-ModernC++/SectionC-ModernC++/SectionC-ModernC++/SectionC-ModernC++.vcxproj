@@ -133,9 +133,14 @@
     <ClCompile Include="CPP_Lecture4_using.cpp" />
     <ClCompile Include="CPP_Lecture5_enum class.cpp" />
     <ClCompile Include="CPP_Lecture6_delete.cpp" />
-    <ClCompile Include="CPP_Lecture7_rvalue reference.cpp" />
-    <ClCompile Include="CPP_Lecture8_forwarding reference.cpp" />
-    <ClCompile Include="CPP_Lecture_override, final.cpp" />
+    <ClCompile Include="CPP_Lecture8_rvalue reference.cpp" />
+    <ClCompile Include="CPP_Lecture9_forwarding reference.cpp" />
+    <ClCompile Include="CPP_LectureA_lambda.cpp" />
+    <ClCompile Include="CPP_LectureB_smart pointer.cpp" />
+    <ClCompile Include="CPP_Lecture7_override, final.cpp" />
+    <ClCompile Include="temp.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
